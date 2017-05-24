@@ -16,3 +16,7 @@ addddddddd
 fixed bug001 in branch issue-fix-01 
 add on local workspace 
 edit dev branch on github server 
+
+
+
+add garnett to github server from local git 
