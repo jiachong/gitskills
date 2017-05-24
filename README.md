@@ -11,3 +11,6 @@ test
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 addddddddd
+
+
+fixed bug001 in branch issue-fix-01 
