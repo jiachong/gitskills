@@ -8,3 +8,4 @@ git remote add origin https://github.com/jiachong/gitskills.git
 git push -u origin master
 
 test 
+Creating a new branch is quick.
